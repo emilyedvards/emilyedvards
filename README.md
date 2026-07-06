@@ -25,7 +25,7 @@ hi, i'm emily.
 
 brand strategist, writer, aspiring technologist.
 
-i make things about language, playful systems,
+i make small sites about language, playful systems,
 and whatever i'm currently thinking about too much.
 
 → <a href="https://www.emilyedwards.xyz">emilyedwards.xyz</a> <br>
