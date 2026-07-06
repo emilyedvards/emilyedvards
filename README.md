@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**emilyedvards/emilyedvards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+                    __                                                       
+                _/,''`'^`,                                                 
+               /''' '`'''',\                                               
+              (((((( |\`'`,`)                                              
+              (((('')) \(___)                                              
+              ()))(')      *\                                              
+<<<<\\\\\\\\\\((((('   *  \                       ~'))',,`~                
+<<<<<<\\\\\\\\\(((('      -  \                   ~'~))))~,,)'`             
+ <<<<<<<<\\\\\\\-\_/      ~ / \-,               ((/      ),,)~)            
+  <<<<<<<\\\/       \    __/  /  \ <<<\\\\\\\\\\)/        )))),`           
+    <<<<<<<             /    /    | <<<<<<<\\\\\/   /   *  ),,~)////////>>>
+     <<<<,              |   \     |   <<<<<<\\\|    `      )))))////>>>>>> 
+       "        /       |    \    /     <<<<<\\(__________ !)/////>>>>>    
+      /        /        |     \  /     ,/                 \ ///>>>>>>>     
+     /       _/_________|      \|     /         _____ _\ \ ;      `\>      
+    /                   \       |    |        _/       \; ;         \      
+   (____________________;\______)    (_______/______________________)  ee  
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+hi, i'm emily.
+
+brand strategist, writer, aspiring technologist.
+
+i make things about language, playful systems,
+and whatever i'm currently thinking about too much.
+
+→ <a href="https://www.emilyedwards.xyz">emilyedwards.xyz</a> <br>
+→ <a href="https://fouuund.it">fouuund.it</a> <br>
+→ <a href="https://wiki-weekly.com/">wiki-weekly.com</a> <br>
+→ <a href="https://birthweather.com">birthweather.com</a> <br>
+
+꒰ঌ ໒꒱
+
+<!-- profile readme -->
